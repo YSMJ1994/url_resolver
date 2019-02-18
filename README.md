@@ -1,4 +1,4 @@
-# url_resolver [![npm](https://img.shields.io/npm/v/url_resolver.svg)](https://www.npmjs.com/package/url_resolver) [![npm](https://img.shields.io/npm/dm/url_resolver.svg)](https://www.npmjs.com/package/url_resolver) [![npm](https://img.shields.io/npm/l/url_resolver.svg)](LICENSE)
+# url_resolver_util [![npm](https://img.shields.io/npm/v/url_resolver_util.svg)](https://www.npmjs.com/package/url_resolver_util) [![npm](https://img.shields.io/npm/dm/url_resolver_util.svg)](https://www.npmjs.com/package/url_resolver_util) [![npm](https://img.shields.io/npm/l/url_resolver_util.svg)](LICENSE)
 #### NodeJS Core Module Extended
 
 ## Installation
