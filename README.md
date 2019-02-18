@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-npm i url_resolver -S
+npm i url_resolver_util -S
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ npm i url_resolver -S
 In your node program:
 
 ```js
-let urlResolver = require('url_resolver')
+let urlResolver = require('url_resolver_util')
 
 // get url params
 const params = urlResolver.getUrlParams(url)
