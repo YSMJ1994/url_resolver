@@ -1,0 +1,25 @@
+{
+  "name": "url_resolver",
+  "version": "1.0.0",
+  "description": "url resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YSMJ1994/url_resolver.git"
+  },
+  "keywords": [
+    "url",
+    "util",
+    "url params",
+    "url_resolver"
+  ],
+  "author": "soberz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YSMJ1994/url_resolver/issues"
+  },
+  "homepage": "https://github.com/YSMJ1994/url_resolver#readme"
+}
