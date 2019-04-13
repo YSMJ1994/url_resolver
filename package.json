@@ -1,6 +1,6 @@
 {
   "name": "url_resolver_util",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "url resolver util",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
