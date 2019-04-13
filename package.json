@@ -2,7 +2,7 @@
   "name": "url_resolver_util",
   "version": "1.0.3",
   "description": "url resolver util",
-  "main": "index.js",
+  "main": "lib/index.js",
   "types": "types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

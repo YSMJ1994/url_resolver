@@ -1,7 +1,5 @@
-export interface GetUrlParams {
-    (url: string): { [key: string]: string }
+interface GetUrlParams {
+	(url: string, revertNumber?: boolean): { [key: string]: string | number | boolean };
 }
-
-declare const getUrlParams: GetUrlParams
-
-export default getUrlParams
+declare const getUrlParams: GetUrlParams;
+export default getUrlParams;

@@ -27,4 +27,4 @@ function getUrlParams(url, revertNumber) {
 		}, params);
 }
 
-module.exports = getUrlParams;
+export default getUrlParams;
